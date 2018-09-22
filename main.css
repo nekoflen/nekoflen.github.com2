@@ -1,0 +1,70 @@
+.html{
+    background-image:url("https://pre00.deviantart.net/d663/th/pre/f/2014/273/c/3/crossover_battle___the_fate_of_the_worlds_by_dbzandsm-d813ejj.jpg")
+}
+
+.container{
+    position: absolute;
+    top: 15vh;
+    left: 15vw;
+    text-align: center;
+    align-content: center;
+    background: white;
+    border-radius: 15px;
+    padding: 5px;
+    width: 70vw;
+    font-weight: 900
+}
+.content{
+    width: 55vw;
+    text-align: center;
+    position: relative;
+    left: 9vw;
+    padding: 5px;
+    margin-top: 5px;
+
+}
+.video{
+    position: relative;
+    left: 35vw;
+    
+}
+.imagen{
+    position: relative;
+    right: 25vw;
+}
+.container2{
+    position: absolute;
+    top: 76vh;
+    left: 15vw;
+    text-align: center;
+    align-content: center;
+    background: white;
+    border-radius: 15px;
+    padding: 5px;
+    width: 70vw;
+}
+.slogan{
+    font-weight: bold
+}
+.boton{
+    border-radius: 360px;
+    background: black;
+    color:white;
+    width: 25px;
+    height: 25px;
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+    position: relative;
+    left: 60vw;
+    bottom: 10vh;
+    text-decoration: none
+    
+}
+.bot{
+    text-decoration: none
+}
+.video2{
+    position: relative;
+    left: 35vw;
+}
